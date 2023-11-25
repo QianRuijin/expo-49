@@ -86,7 +86,7 @@
     "@react-native/codegen": "^0.72.6",
     "@react-native/gradle-plugin": "^0.72.10",
     "@react-native/js-polyfills": "^0.72.1",
-    "@react-native/normalize-colors": "^0.72.0",
+    "@react-native/normalize-colors": "^0.74.1",
     "@react-native/virtualized-lists": "^0.72.5",
     "abort-controller": "^3.0.0",
     "anser": "^1.4.9",
