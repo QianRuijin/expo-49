@@ -129,7 +129,7 @@
     "expo-updates": "0.18.17",
     "expo-video-thumbnails": "~7.4.0",
     "expo-web-browser": "~12.3.0",
-    "fbemitter": "^2.1.1",
+    "fbemitter": "^3.0.0",
     "fuse.js": "^6.4.6",
     "gl-mat4": "^1.1.4",
     "hsv2rgb": "^1.1.0",
