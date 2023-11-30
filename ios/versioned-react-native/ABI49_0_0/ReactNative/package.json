@@ -79,7 +79,7 @@
   },
   "dependencies": {
     "@jest/create-cache-key-function": "^29.2.1",
-    "@react-native-community/cli": "11.3.2",
+    "@react-native-community/cli": "12.0.0",
     "@react-native-community/cli-platform-android": "11.3.2",
     "@react-native-community/cli-platform-ios": "11.3.2",
     "@react-native/assets-registry": "^0.72.0",
