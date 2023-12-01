@@ -37,7 +37,7 @@
     "@expo/config-types": "^49.0.0-alpha.1",
     "@expo/json-file": "^8.2.37",
     "getenv": "^1.0.0",
-    "glob": "7.1.6",
+    "glob": "9.0.0",
     "require-from-string": "^2.0.2",
     "resolve-from": "^5.0.0",
     "semver": "7.5.3",
